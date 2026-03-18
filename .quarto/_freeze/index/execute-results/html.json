@@ -1,0 +1,17 @@
+{
+  "hash": "8541d2d87e139555f77d9920e741a01c",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: ''\npagetitle: Maya G T Ogonah\n---\n\n<link rel=\"stylesheet\" href=\"styles.css\" type=\"text/css\">\n\n<img src=\"images/maya.jpg\" style=\"width:25%; border:10px solid; margin-right: 20px\" align=\"left\">\n\n### About me\nI am currently a Data Science Institute Postdoctoral Fellow at [Columbia University](https://datascience.columbia.edu/people/maya-ogonah/), where I am applying longitudinal data analysis methods to assess the risk of violence in neuropsychiatric populations. I graduated from King's College London with a BSc(Hons) in Psychiatry in 2021. I subsequently enrolled in a DPhil in Psychiatry at the [University of Oxford](https://www.ox.ac.uk/admissions/graduate/courses/dphil-psychiatry), where I developed expertise in psychiatric epidemiology, prediction modelling and evidence synthesis methods under the advisement of [Prof. Seena Fazel](https://www.psych.ox.ac.uk/team/seena-fazel). \n\nThis webite contains my (current) research interests and a collection of my work such as selected [publications](https://mayaogonah.github.io/research.html) and recent [talks](https://mayaogonah.github.io/talks.html).\n\nMore details can be found at [GitHub](https://github.com/mayaogonah) and [Google Scholar](https://scholar.google.com/citations?hl=en&user=0z5OZqEAAAAJ&view_op=list_works).\n\n#### Research interests\n\n#### Brief CV\n\n+ 2025-2027: Postdoctoral research scientist at Columbia University (NYC, United States);  \n\n+ 2021-2025: PhD candidate at the University of Oxford (Oxford, United Kingdom);  \n\n+ 2024-2025: Academic tutor at the University of Georgia at Oxford Programme (Oxford, United Kingdom);\n\n+ 2021: Health data research intern at University College London Institute of Informatics (London, United Kingdom);\n\n+ 2020: Honorary assistant psychologist at Maudsley Simulation and Learning (London, United Kingdom)\n\n##### Education\n\n+ 2025: DPhil in Psychiatry from [University of Oxford](https://www.ox.ac.uk/admissions/graduate/courses/dphil-psychiatry). DPhil dissertation _\"Violence Perpetration, Victimisation, and Self-Harm in Traumatic Brain Injury An Evidence Synthesis, Epidemiological, and Risk Modelling Approach\"_ is available [here](https://ora.ox.ac.uk/objects/uuid:f6872374-96f6-4a32-ab60-364abaefb8cb).\n\n+ 2021: Bachelors of Science (Hons) in Psychology from [King's College London](https://www.kcl.ac.uk/study/undergraduate/courses/psychology-bsc). BSc dissertation _\"Evaluating School-Type Effects on Intellectual Humility: Does the Prevalence of Psychopathic Traits Partially Explain the Relationship?\"_  \n\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

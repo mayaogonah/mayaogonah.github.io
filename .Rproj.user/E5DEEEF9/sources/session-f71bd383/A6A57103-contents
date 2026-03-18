@@ -1,0 +1,30 @@
+---
+title: "Maya G T Ogonah"
+about:
+  template: broadside
+  image: images/maya.jpg
+  links:
+    - text: "{{< iconify ic:baseline-email size=2xl >}}"
+      href: mailto:mgo2120@columbia.edu
+    - text: "{{< iconify mdi:linkedin size=2xl >}}"
+      href: https://www.linkedin.com/in/mayaogonah/
+    - text: "{{< iconify mdi:github size=2xl >}}"
+      href: https://github.com/mayaogonah
+    - text: "{{< iconify academicons:google-scholar size=2xl >}}"
+      href: https://scholar.google.com/citations?hl=en&user=0z5OZqEAAAAJ&view_op=list_works
+    - text: "{{< iconify simple-icons:bluesky size=2xl >}}"
+      href: https://bsky.app/profile/mayogonah.bsky.social
+---
+
+### About me
+I am currently a Data Science Institute Postdoctoral Fellow at [Columbia University](https://datascience.columbia.edu/people/maya-ogonah/), where I am applying longitudinal data analysis methods to assess the risk of violence in neuropsychiatric populations. I graduated from King's College London with a BSc(Hons) in Psychiatry in 2021. I subsequently enrolled in a DPhil in Psychiatry at the [University of Oxford](https://www.ox.ac.uk/admissions/graduate/courses/dphil-psychiatry), where I developed expertise in psychiatric epidemiology, prediction modelling and evidence synthesis methods under the advisement of [Prof. Seena Fazel](https://www.psych.ox.ac.uk/team/seena-fazel). 
+
+This webite contains my (current) research interests and a collection of my work such as selected [publications](https://mayaogonah.github.io/research.html) and recent [talks](https://mayaogonah.github.io/talks.html).
+
+More details can be found at [GitHub](https://github.com/mayaogonah) and [Google Scholar](https://scholar.google.com/citations?hl=en&user=0z5OZqEAAAAJ&view_op=list_works).
+
+#### Research interests
+
+My general research interests are understanding mechanisms for violence in vulnerable populations. At current, my research focuses on understanding violence trajectories in youth with traumatic brain injury, however other groups of interest include individuals affected by conflict and offender populations. I also have a strong interest in understanding social determinants for health, particularly the impact on race/ethnicity on outcomes. 
+
+

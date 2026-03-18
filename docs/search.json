@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Maya G T Ogonah",
+    "section": "",
+    "text": "About me\nI am currently a Data Science Institute Postdoctoral Fellow at Columbia University, where I am applying longitudinal data analysis methods to assess the risk of violence in neuropsychiatric populations. I graduated from King’s College London with a BSc(Hons) in Psychiatry in 2021. I subsequently enrolled in a DPhil in Psychiatry at the University of Oxford, where I developed expertise in psychiatric epidemiology, prediction modelling and evidence synthesis methods under the advisement of Prof. Seena Fazel.\nThis webite contains my (current) research interests and a collection of my work such as selected publications and recent talks.\nMore details can be found at GitHub and Google Scholar.\n\nResearch interests\nMy general research interests are understanding mechanisms for violence in vulnerable populations. At current, my research focuses on understanding violence trajectories in youth with traumatic brain injury, however other groups of interest include individuals affected by conflict and offender populations. I also have a strong interest in understanding social determinants for health, particularly the impact on race/ethnicity on outcomes."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Maya G T Ogonah",
+    "section": "",
+    "text": "Selected publications\n\nTraumatic brain injury\nOgonah, M.G.T, Botchway, S., Yu, R., Schofield, P., & Fazel, S (2025). An umbrella review of health outcomes following traumatic brain injury. Nature Mental Health. https://doi.org/10.1038/s44220-024-00356-5\nOgonah, M.G.T. & Botchway, S. (2025) Research Briefing: Physical and mental health after traumatic brain injury. Nature Mental Health. https://doi.org/10.1038/s44220-024-00362-7 [Research Briefing]\n\n\nRisk prediction\nSeyedsalehi A., Bailey, J., Ogonah, M. G. T., Fanshawe, T. R., & Fazel, S. (2025) Prediction models for self-harm and suicide: a systematic review and critical appraisal. BMC Medicine, 23(549). https://doi.org/10.1186/s12916-025-04367-6\nOgonah, M. G. T., Seyedalehi, A., Whiting, D., & Fazel, S. (2023). Violence risk assessment instruments in forensic psychiatric populations: A systematic review and meta-analysis of their performance. The Lancet Psychiatry, 10, 780-789. https://doi.org/10.1016/S2215-0366(23)00256-0\n\n\nSimulation training\nOgonah M. G. T., Vega, M. O., Valdearenas, L., Cross, S., & Attoe, C. (2021). Mental health crises in the emergency department: simulation training for interprofessional collaboration and teamwork attitudes. International Journal of Healthcare Simulation, 1(1), 11-27. https://www.ijohs.com/article/doi/10.54531/OWXJ2519"
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Maya G T Ogonah",
+    "section": "",
+    "text": "Recent talks\n\nMaya G T Ogonah, DPhil. “Psychiatric predictors of violent traumatic brain injury: results from the TBIMS study” British Neuropsychiatry Association, March 12, 2026\nMaya G T Ogonah, DPhil. “Violence following traumatic brain injury”. Columbia University, Psychiatric Epidemiology Training Program weekly seminar series, January 22, 2026.\nMaya G T Ogonah, Anutra Guru, & Amy Gillepsie. “Department of Psychiatry Race Equality Working Group”. University of Oxford, Vice Chancellors Awards flash talks, May 13, 2025.\nMaya G T Ogonah. “An umbrella review of health outcomes following traumatic brain injury” University of Oxford, Department of Psychiatry monthly Head of Department series, March 03, 2025.\nMaya G T Ogonah “OP05.02 Childhood traumatic brain injury and risk of violent victimisation and self-directed violence: A nationwide cohort study using linked data”. European Psychiatric Association Section Epidemiology & Social Psychiatry, September 12, 2024."
+  },
+  {
+    "objectID": "programming.html",
+    "href": "programming.html",
+    "title": "Maya G T Ogonah",
+    "section": "",
+    "text": "Github repositories\n\nforensic-risk (author). R code repository for the manuscript ‘Violence risk assessment instruments in forensic psychiatric populations: a systematic review and meta-analysis’.\ntbi-umbrella (author), R code repository for the manuscript ‘An umbrella review of health outcomes following traumatic brain injury’.\n\n\nOngoing projects\n\nprognostic-modelling (author), R code repository for the manuscripts ‘Violent victimisation after adolescent traumatic brain injury: development and validation of a clinical prediction model’ (under review)."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Maya G T Ogonah",
+    "section": "",
+    "text": "Brief CV\n\n2025-2027: Postdoctoral research scientist at Columbia University (NYC, United States);\n2021-2025: PhD candidate at the University of Oxford (Oxford, United Kingdom);\n2024-2025: Academic tutor at the University of Georgia at Oxford Programme (Oxford, United Kingdom);\n2021: Health data research intern at University College London Institute of Informatics (London, United Kingdom);\n2020: Honorary assistant psychologist at Maudsley Simulation and Learning (London, United Kingdom)\n\n\nEducation\n\n2025: DPhil in Psychiatry from University of Oxford. DPhil dissertation “Violence Perpetration, Victimisation, and Self-Harm in Traumatic Brain Injury An Evidence Synthesis, Epidemiological, and Risk Modelling Approach” is available here.\n2021: Bachelors of Science (Hons) in Psychology from King’s College London. BSc dissertation “Evaluating School-Type Effects on Intellectual Humility: Does the Prevalence of Psychopathic Traits Partially Explain the Relationship?”"
+  }
+]

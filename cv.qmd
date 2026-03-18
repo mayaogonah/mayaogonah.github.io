@@ -1,0 +1,26 @@
+---
+title: " "
+pagetitle: "Maya G T Ogonah"
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+### Brief CV
+
++ 2025-2027: Postdoctoral research scientist at Columbia University (NYC, United States);  
+
++ 2021-2025: PhD candidate at the University of Oxford (Oxford, United Kingdom);  
+
++ 2024-2025: Academic tutor at the University of Georgia at Oxford Programme (Oxford, United Kingdom);
+
++ 2021: Health data research intern at University College London Institute of Informatics (London, United Kingdom);
+
++ 2020: Honorary assistant psychologist at Maudsley Simulation and Learning (London, United Kingdom)
+
+#### Education
+
++ 2025: DPhil in Psychiatry from [University of Oxford](https://www.ox.ac.uk/admissions/graduate/courses/dphil-psychiatry). DPhil dissertation _"Violence Perpetration, Victimisation, and Self-Harm in Traumatic Brain Injury An Evidence Synthesis, Epidemiological, and Risk Modelling Approach"_ is available [here](https://ora.ox.ac.uk/objects/uuid:f6872374-96f6-4a32-ab60-364abaefb8cb).
+
++ 2021: Bachelors of Science (Hons) in Psychology from [King's College London](https://www.kcl.ac.uk/study/undergraduate/courses/psychology-bsc). BSc dissertation _"Evaluating School-Type Effects on Intellectual Humility: Does the Prevalence of Psychopathic Traits Partially Explain the Relationship?"_  
