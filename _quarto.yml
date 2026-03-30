@@ -12,7 +12,7 @@ website:
         href: research.qmd
       - text: "Talks"
         href: talks.qmd
-      - text: "Programming"
+      - text: "Repositories"
         href: programming.qmd
 
 format:

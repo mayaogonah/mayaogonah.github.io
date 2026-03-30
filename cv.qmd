@@ -9,15 +9,17 @@ pagetitle: "Maya G T Ogonah"
 
 ### Brief CV
 
-+ 2025-2027: Postdoctoral research scientist at Columbia University (NYC, United States);  
++ 2025-2027: Postdoctoral Research Scientist at Columbia University (NYC, United States);  
 
-+ 2021-2025: PhD candidate at the University of Oxford (Oxford, United Kingdom);  
++ 2021-2025: DPhil Candidate at the University of Oxford (Oxford, United Kingdom);  
 
-+ 2024-2025: Academic tutor at the University of Georgia at Oxford Programme (Oxford, United Kingdom);
++ 2024-2025: Academic Tutor at the University of Georgia at Oxford Programme (Oxford, United Kingdom);
 
-+ 2021: Health data research intern at University College London Institute of Informatics (London, United Kingdom);
++ 2021: Charity Research Intern at Hope for Children (Remote);
 
-+ 2020: Honorary assistant psychologist at Maudsley Simulation and Learning (London, United Kingdom)
++ 2021: Health Data Research Intern at University College London Institute of Informatics (London, United Kingdom);
+
++ 2020: Honorary Assistant Psychologist at Maudsley Simulation and Learning (London, United Kingdom)
 
 #### Education
 
