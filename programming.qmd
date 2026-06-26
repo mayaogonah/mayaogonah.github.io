@@ -10,12 +10,20 @@ pagetitle: "Maya G T Ogonah"
 
 ### Github repositories
 
-- [`forensic-risk`](https://github.com/mayaogonah/forensic-risk) (author). R code repository for the manuscript ['Violence risk assessment instruments in forensic psychiatric populations: a systematic review and meta-analysis'](https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(23)00256-0/fulltext). 
+#### **Completed projects**
 
-- [`tbi-umbrella`](https://github.com/mayaogonah/tbi-umbrella) (author), R code repository for the manuscript ['An umbrella review of health outcomes following traumatic brain injury'](https://www.nature.com/articles/s44220-024-00356-5).  
+- [`forensic-risk`](https://github.com/mayaogonah/forensic-risk) (author). R/Quarto code repository for the manuscript ['Violence risk assessment instruments in forensic psychiatric populations: a systematic review and meta-analysis'](https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(23)00256-0/fulltext). 
 
-#### Ongoing projects
+- [`tbi-umbrella`](https://github.com/mayaogonah/tbi-umbrella) (author), R/Quarto code repository for the manuscript ['An umbrella review of health outcomes following traumatic brain injury'](https://www.nature.com/articles/s44220-024-00356-5).  
 
-- [`prognostic-modelling`](https://github.com/mayaogonah/prognostic-modelling) (author), R code repository for the manuscripts 'Violent victimisation after adolescent traumatic brain injury: development and validation of a clinical prediction model' (under review). 
+- [`prognostic-modelling`](https://github.com/mayaogonah/prognostic-modelling) (author), R/Quarto code repository for the manuscripts 'Violent victimisation after adolescent traumatic brain injury: development and validation of a clinical prediction model' (in press at Injury Prevention). 
+
+#### **Ongoing projects (under review)**
+
+- [`predicting-self-harm`](https://github.com/mayaogonah/predicting-self-harm) (author), R/Quarto repository for the manuscript 'Clinical prediction model for self-harm after adolescent traumatic brain injury' (under review).
+
+- [`cohort-sail`](https://github.com/mayaogonah/cohort-sail) (author), R/Quarto repository for the manuscript 'Risk of self-harm and victimisation after traumatic brain injury in childhood and adolescence: a nationwide cohort study' (under review). 
+
+- [`psychiatric-tbims`](https://github.com/mayaogonah/psychiatric-tbims) (author), R/Quarto repository for the manuscript 'Psychiatric predictors of violent traumatic brain injury: results from the TBIMS study' (under review). 
 
 
