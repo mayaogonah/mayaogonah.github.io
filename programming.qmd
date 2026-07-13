@@ -16,11 +16,11 @@ pagetitle: "Maya G T Ogonah"
 
 - [`tbi-umbrella`](https://github.com/mayaogonah/tbi-umbrella) (author), R/Quarto code repository for the manuscript ['An umbrella review of health outcomes following traumatic brain injury'](https://www.nature.com/articles/s44220-024-00356-5).  
 
-- [`prognostic-modelling`](https://github.com/mayaogonah/prognostic-modelling) (author), R/Quarto code repository for the manuscripts 'Violent victimisation after adolescent traumatic brain injury: development and validation of a clinical prediction model' (in press at Injury Prevention). 
+- [`prognostic-modelling`](https://github.com/mayaogonah/prognostic-modelling) (author), R/Quarto code repository for the manuscripts ['Violent victimisation after adolescent traumatic brain injury: development and validation of a clinical prediction model'](https://injuryprevention.bmj.com/content/early/2026/06/25/ip-2025-046072). 
+
+- [`predicting-self-harm`](https://github.com/mayaogonah/predicting-self-harm) (author), R/Quarto repository for the manuscript 'Clinical prediction model for self-harm after adolescent traumatic brain injury' (in press at The Journal of Neuropsychiatry and Clinical Neurosciences).
 
 #### **Ongoing projects (under review)**
-
-- [`predicting-self-harm`](https://github.com/mayaogonah/predicting-self-harm) (author), R/Quarto repository for the manuscript 'Clinical prediction model for self-harm after adolescent traumatic brain injury' (under review).
 
 - [`cohort-sail`](https://github.com/mayaogonah/cohort-sail) (author), R/Quarto repository for the manuscript 'Risk of self-harm and victimisation after traumatic brain injury in childhood and adolescence: a nationwide cohort study' (under review). 
 
