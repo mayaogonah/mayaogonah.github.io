@@ -15,7 +15,8 @@ pagetitle: "Maya G T Ogonah"
 
 **Ogonah, M.G.T**. & Botchway, S. (2025) Research Briefing: Physical and mental health after traumatic brain injury. *Nature Mental Health*. [https://doi.org/10.1038/s44220-024-00362-7](https://doi.org/10.1038/s44220-024-00362-7) [Research Briefing]
   
-#### **Risk prediction** 
+
+#### **Risk assessment and predictive modelling** 
 
 **Ogonah, M. G. T.**, Mavroudis, I., Whiting, D., & Fazel, S. (in press). Clinical prediction model for self-harm after adolescent traumatic brain injury. *The Journal of Neuropsychiatry and Clinical Neurosciences*. 
 
@@ -24,6 +25,7 @@ pagetitle: "Maya G T Ogonah"
 Seyedsalehi A., Bailey, J., **Ogonah, M. G. T.**, Fanshawe, T. R., & Fazel, S. (2025) Prediction models for self-harm and suicide: a systematic review and critical appraisal. *BMC Medicine*, 23(549). [https://doi.org/10.1186/s12916-025-04367-6](https://doi.org/10.1186/s12916-025-04367-6)
 
 **Ogonah, M. G. T.**, Seyedalehi, A., Whiting, D., & Fazel, S. (2023). Violence risk assessment instruments in forensic psychiatric populations: A systematic review and meta-analysis of their performance. *The Lancet Psychiatry*, 10, 780-789. [https://doi.org/10.1016/S2215-0366(23)00256-0](https://doi.org/10.1016/S2215-0366(23)00256-0)
+
 
 #### **Simulation training**
 
