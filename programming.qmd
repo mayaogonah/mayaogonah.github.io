@@ -18,7 +18,7 @@ pagetitle: "Maya G T Ogonah"
 
 - [`prognostic-modelling`](https://github.com/mayaogonah/prognostic-modelling) (author), R/Quarto code repository for the manuscripts ['Violent victimisation after adolescent traumatic brain injury: development and validation of a clinical prediction model'](https://injuryprevention.bmj.com/content/early/2026/06/25/ip-2025-046072). 
 
-- [`predicting-self-harm`](https://github.com/mayaogonah/predicting-self-harm) (author), R/Quarto repository for the manuscript 'Clinical prediction model for self-harm after adolescent traumatic brain injury' (in press at The Journal of Neuropsychiatry and Clinical Neurosciences).
+- [`predicting-self-harm`](https://github.com/mayaogonah/predicting-self-harm) (author), R/Quarto repository for the manuscript ['Clinical prediction model for self-harm after adolescent traumatic brain injury'](https://psychiatryonline.org/doi/10.1176/appi.neuropsych.20260042)
 
 #### **Ongoing projects (under review)**
 
